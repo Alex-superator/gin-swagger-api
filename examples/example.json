@@ -1,0 +1,9 @@
+{
+  "ping": {
+    "method": "GET",
+    "url": "http://localhost:8080/ping",
+    "response": {
+      "message": "pong"
+    }
+  }
+}

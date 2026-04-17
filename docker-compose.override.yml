@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  app:
+    ports:
+      - "8081:8080"  # override port
+    volumes:
+      - .:/app
+    environment:
+      - GIN_MODE=debug
+    command: go run main.go
