@@ -1,4 +1,4 @@
-# Your Go Project
+# gin-swagger-api
 
 REST API на Gin + Swagger.
 
