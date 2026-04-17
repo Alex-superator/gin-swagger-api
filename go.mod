@@ -1,4 +1,4 @@
-module github.com/Alex-superator/crudlGo
+module github.com/Alex-superator/gin-swagger-api
 
 go 1.22
 
